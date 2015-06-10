@@ -15,4 +15,6 @@ after you commit, you will see the following:
 
 Now, make some change on the README file and type "git status", see red, now
 "git diff" to see the different before and after
+After the second change, "git add README.md" and "git commit" again
+Now you can try to "git push", type your uname and pw of github
 
