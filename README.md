@@ -20,3 +20,9 @@ Now you can try to "git push", type your uname and pw of github
 
 Now you can "git log" to see all the commits history, also you can go to the
 github website and move to that repository, then click the "commits" to see
+
+
+Up to this point, it's the time to try "pull request", because the following steps are github's functions, most of it done on the gui web page.
+1. go to the webpage of the your friends repository, then find the "fork" button to fork it to your github.
+2. once you forked, git clone that repository in the command line first and then make some changes, "git add", "git commit", "git push" to push back to your forked repository.
+3. now go back to the webpage of your github, click the "pull request" button to make to request to your friend.
