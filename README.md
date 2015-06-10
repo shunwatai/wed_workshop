@@ -18,3 +18,5 @@ Now, make some change on the README file and type "git status", see red, now
 After the second change, "git add README.md" and "git commit" again
 Now you can try to "git push", type your uname and pw of github
 
+Now you can "git log" to see all the commits history, also you can go to the
+github website and move to that repository, then click the "commits" to see
