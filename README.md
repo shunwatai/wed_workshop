@@ -1,11 +1,13 @@
 This is a readme file for wed workshop(10-June-2015) about how to use github
 
 The following first 3 steps done on the github web interface:
+
 1. Create a repository on your github webpage
 2. then you click that repository on the webpage
 3. copy that URL of the repository
 
 The following steps done on your local machine
+
 4. open a terminal
 5. type "git clone <repoURL>"
 6. cd to the directory that you just cloned
@@ -62,6 +64,7 @@ your forked repository.
 to make the request to your friend.
 
 The following are for you friend to do:
+
 4. your friend should receive the your "pull request".
 5. he/she should first clone your modified cloned repository on his/her local
 machine, then build/complie it to test it.
