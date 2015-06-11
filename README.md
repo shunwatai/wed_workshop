@@ -1,20 +1,20 @@
-This is a readme file for wed workshop(10-June-2015) about how to use github
+# This is a readme file for wed workshop(10-June-2015) about how to use github
 
-The following first 3 steps done on the github web interface:
+## The following first 3 steps done on the github web interface:
 
 1. Create a repository on your github webpage
 2. then you click that repository on the webpage
 3. copy that URL of the repository
 
-The following steps done on your local machine
+## The following steps done on your local machine
 
 4. open a terminal
-5. type "git clone <repoURL>"
+5. type "git clone 'repoURL'"
 6. cd to the directory that you just cloned
 7. now you can modified the source code, or add some new files.
 8. type "git status" to see the changes, you will see the new file(s) in "red"
 colour. Then you can type "git diff" to see the difference before and after
-9. now, type "git add <files>"(specific files) or "git add ."(all files)
+9. now, type "git add 'files'"(specific files) or "git add ."(all files)
 10. type "git status", now you will see the file(s) in green colour.
 11. After added the files, you need to commit what you have done, the commit
 function is used to record down the history of the changes like a log,
@@ -25,7 +25,8 @@ type what you did, and the ":wq" to exit the VI
 repository on github, it will require you to enter your username and password
 15. go back to the web browser and see the "push" success or not
 
-More details about "git status, commit, log, diff":
+## More details about "git status, commit, log, diff":
+
 "git status" to see what files created/deleted/modified.
 
 .md stand for markdown, it is a feature for github for nice format on github website
@@ -51,7 +52,7 @@ github website and move to that repository, then click the "commits" to see
 
 
 
-Pull request:
+## Pull request:
 Up to this point, it's the time to try "pull request", because the followin steps are github's functions, most of it done on the gui web page.
 
 1. go to the webpage of the your friends repository, then find the "fork"
@@ -63,7 +64,7 @@ your forked repository.
 3. now go back to the webpage of your github, click the "pull request" button
 to make the request to your friend.
 
-The following are for you friend to do:
+## The following are for you friend to do:
 
 4. your friend should receive the your "pull request".
 5. he/she should first clone your modified cloned repository on his/her local
