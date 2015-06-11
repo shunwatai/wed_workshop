@@ -65,7 +65,7 @@ your forked repository.
 3. now go back to the webpage of your github, click the "pull request" button
 to make the request to your friend.
 
-### The following are for you friend to do:
+### The following are for your friend to do:
 
 4. your friend should receive the your "pull request".
 5. he/she should first clone your modified cloned repository on his/her local
